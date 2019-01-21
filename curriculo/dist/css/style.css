@@ -6,6 +6,9 @@
     float:left;
     background-color: rgb(218, 216, 216);
 }
+.content-right h1{
+    margin-left: 9px;
+}
 .content-left{
     background: #232526;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to bottom, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
@@ -34,4 +37,49 @@
 }
 .contact h3{
     color:white;
+    font-weight: bold;
+}
+.title-exp{
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: #414345;*/
+    /* background-color: rgb(156, 155, 155);
+    color:white; */
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bold;
+    padding-left: 9px;
+}
+.title-academic{
+    /* background-color: rgb(156, 155, 155);
+    color:white; */
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-left: 9px;
+    margin-bottom: 30px ;
+}
+.col-sm-9{
+    padding-left: 0px ;
+    padding-right: 0px ;
+}
+.content-right h4{
+    padding-left: 4px;
+}
+.about-exp p{
+    padding-left:50px;
+}
+.academic-exp p{
+    padding-left:50px;
+}
+.title-languages h3{
+    padding-left: 9px;
+}
+.title-volunteers{
+    padding-left: 9px;
+}
+.title-skills{
+    padding-left: 9px;
+}
+.volunteers{
+    margin-bottom: 80px;
 }
